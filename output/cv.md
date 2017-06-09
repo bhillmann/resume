@@ -47,6 +47,8 @@ Title: CV
 ## Talks and Posters
 
 
+* <div class="lead">Talk: *A Framework for Forward Modeling Solar Active Regions* / Space Physics Seminar Series / Rice University / Houston, TX / 27 February 2017</div>
+
 * <div class="lead">Poster: [*Understanding the Impact of Nanoflare Heating Frequency on the Observed Emission Measure Distribution*](http://shinecon.org/shine2016/ViewAbstract.php?idabs=132) / Solar Heliospheric and Interplanetary Environment (SHINE) Conference / National Science Foundation / Santa Fe, NM / 11-15 July 2016</div>
 
 * <div class="lead">Talk: [*Hot Non-flaring Plasmas in Active Region Cores Heated by Single Nanoflares*](http://adsabs.harvard.edu/abs/2016SPD....4720203B) / 47th Annual Solar Physics Division Meeting / American Astronomical Society / Boulder, CO / 31 May-3 June 2016</div>
